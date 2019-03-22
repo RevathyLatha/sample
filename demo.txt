@@ -1,21 +1,2 @@
-{
-    "policyAction": {
-        "id": "b7e1405a-0482-475d-b772-59d41b5c029f",
-        "names": [
-            {
-                "value": "Authorize User",
-                "locale": "en"
-            }
-        ],
-        "templateKey": "authorizeUser",
-        "parameters": [
-            {
-                "templateKey": "users",
-                "values": [
-                    "Default"
-                ]
-            }
-        ],
-        "active": false
-    }
-}
+hi hello
+how u doing!!!!!
